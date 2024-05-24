@@ -15,7 +15,7 @@ classifiers = ["Development Status :: 4 - Beta"]
 Changelog = "https://github.com/bruno-fs/retrocookie-hypermodern-python/releases"
 
 [tool.poetry.dependencies]
-python = "^3.7"
+python = "^3.8"
 click = ">=8.0.1"
 
 [tool.poetry.dev-dependencies]
