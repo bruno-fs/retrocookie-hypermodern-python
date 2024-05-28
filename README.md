@@ -10,14 +10,16 @@
 [![Codecov](https://codecov.io/gh/bruno-fs/retrocookie-hypermodern-python/branch/main/graph/badge.svg)][codecov]
 
 [![pre-commit](https://img.shields.io/badge/pre--commit-enabled-brightgreen?logo=pre-commit&logoColor=white)][pre-commit]
-[![Black](https://img.shields.io/badge/code%20style-black-000000.svg)][black]
+[![Ruff codestyle][ruff badge]][ruff project]
+
 
 [pypi status]: https://pypi.org/project/retrocookie-hypermodern-python/
 [read the docs]: https://retrocookie-hypermodern-python.readthedocs.io/
 [tests]: https://github.com/bruno-fs/retrocookie-hypermodern-python/actions?workflow=Tests
 [codecov]: https://app.codecov.io/gh/bruno-fs/retrocookie-hypermodern-python
 [pre-commit]: https://github.com/pre-commit/pre-commit
-[black]: https://github.com/psf/black
+[ruff badge]: https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/astral-sh/ruff/main/assets/badge/v2.json
+[ruff project]: https://github.com/charliermarsh/ruff
 
 ## Features
 
