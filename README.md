@@ -12,7 +12,6 @@
 [![pre-commit](https://img.shields.io/badge/pre--commit-enabled-brightgreen?logo=pre-commit&logoColor=white)][pre-commit]
 [![Ruff codestyle][ruff badge]][ruff project]
 
-
 [pypi status]: https://pypi.org/project/retrocookie-hypermodern-python/
 [read the docs]: https://retrocookie-hypermodern-python.readthedocs.io/
 [tests]: https://github.com/bruno-fs/retrocookie-hypermodern-python/actions?workflow=Tests
