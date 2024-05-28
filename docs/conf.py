@@ -1,4 +1,5 @@
 """Sphinx configuration."""
+
 project = "Retrocookie Hypermodern Python"
 author = "Bruno Ciconelle"
 copyright = "2024, Bruno Ciconelle"
