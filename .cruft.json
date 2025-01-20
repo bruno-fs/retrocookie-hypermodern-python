@@ -1,0 +1,21 @@
+{
+  "template": "https://github.com/bruno-fs/cookiecutter-hypermodern-python",
+  "commit": "6e269e4d703f1e10f38c65a323b48cbe2980e9d3",
+  "checkout": null,
+  "context": {
+    "cookiecutter": {
+      "project_name": "retrocookie-hypermodern-python",
+      "package_name": "retrocookie",
+      "friendly_name": "Retrocookie Hypermodern Python",
+      "author": "Bruno Ciconelle",
+      "email": "bruno.ciconelle@alumni.usp.br",
+      "github_user": "bruno-fs",
+      "version": "0.0.0",
+      "copyright_year": "2024",
+      "license": "GPL-3.0",
+      "development_status": "Development Status :: 4 - Beta",
+      "_template": "https://github.com/bruno-fs/cookiecutter-hypermodern-python"
+    }
+  },
+  "directory": null
+}
